@@ -1,0 +1,79 @@
+ /* detail */
+ @media(max-width:768px) {
+    .width-detail-100{
+        width: 100% !important;
+    }
+   
+    .breadcrumb-main{
+    display:  none;
+    }
+
+    .product-detail-information-de{
+        margin-top: 8px;
+        padding:  0 10px;
+    }
+    .product-detail .p-4 {
+        padding:  0px !important;
+    }
+    .product-detail-information-de h2{
+    font-size: 16px ;
+    text-align: initial;
+    }
+    .start_market{
+        display: inline-block !important;
+        width: 100%;
+    }
+    .product-detail .start_market .number-comment{
+        width: 100%; text-align: initial;
+    }
+    .product-detail .start_market .market {
+        width: 100%; text-align: initial;
+    }
+    .product-detail-information-de .attaint{
+        text-align: initial;
+    }
+    .product-detail   .start_market .start{
+        border: none;
+    }
+    .product-detail   .start_market .number-comment{
+        border: none;
+    }
+    .d-n-de{
+        display: none;
+    }
+    .padding-n-de{
+        padding: 0px !important;
+    }
+    .pl-5
+    {
+        padding-left: 10px !important;
+    }
+    .detail-product-describe{
+        display: none;
+    }
+    .one-line{
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;    text-align: initial;
+        margin-bottom: 0;
+    }
+    .d-fle-de{
+        display: flex;
+    }
+    .product-detail-information-de .color{
+        text-align: initial;
+    }
+    .product-detail-information-de .quantity{
+        text-align: initial;
+    }
+    .text-left{
+        text-align: initial;
+    }
+    .p-l-0{
+        padding-left: 0;
+    }
+    .mua-ngay{
+        margin-top: 10px;
+    }
+}
